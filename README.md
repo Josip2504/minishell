@@ -152,7 +152,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - 42 School for the project requirements and educational framework
 - The GNU Bash project for inspiration
 - Contributors to the Readline library
-## Contact
-- Project Link: [https://github.com/yourusername/balkanshell](https://github.com/yourusername/balkanshell)
 ---
 *Note: This project was developed as part of the 42 School curriculum and is intended for educational purposes.*
